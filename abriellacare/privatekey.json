@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abriellacare",
+  "private_key_id": "b0caf627f9b0734a62d2c38243f8e552ed55f6bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYZYmKrtqJUsaR\nOrgtY5XAPJVHzG77yr5JuAeS+Spg0W3ELvQQQZmZtSRcxRP4/cradnYmR89plMJZ\n68FYpCRd5pb6ZM+bCDJfH/zHQGOziiRacuHGIc7gsTavL0vb7udiPBmnGDapmXex\nKORfl61tuUPn6SDeR4EXkNNdiotdClcbqtvQj/5W7oiKJq7soS13UBfFB+RUrOSS\ngF+Q9cyQ43m7Fy3ArfLEcUeKFzzo+Z6ALFyQeumzXTbe5h4fkg/L9x4DNAytHb4l\nfcbsrU6bsQL1ht7nA0XPlEzmmSMlLSNbm9YLu4hkJkoJcYve/W8OQFj/MsGWqAA9\niDYjzpD7AgMBAAECggEAAYNV5OqXgNrcMypCFIad61VZUL0sMj5xD9+j3kcFr1sP\nm+2wvqM9bdPpPdfhuuHKLHZrSzYAo9Zg7O5KR8xZZWqZ/80VwpRHlmowOEo2CIeh\nP29POTMHZXOyTKBLldi+s1r6u433Uk0TwyPaIJjWP/X26/aEklsODQ3YYLVfbNe0\nLVDSI+cTf1mtp1tGlhqA5sw7VvuKe30hguDHkSpUecOBisRAksjMH30JbTJvLNOP\nUa/oheKbBAB/k5o7JPlmsQk5T1zF70Fj8up2X7WKnucs9hABsJ1cpU1UGytYljqJ\n6KHBuo/X48NZR4Ca18lLvktIYSBcrWulvLGWnY+0AQKBgQDRNnCuhT64S3D9uDcJ\n6Nkj1tlBu3anFZNZpxLokPZt/4pnMuLyncpk2TybLqzw+a1YwdtSSGhfzfdm5YGD\nhKDO1PJTN3Jl4uLU82iF7Ztr1jcyedD9VfswFtjApJ2OH+OmhRs8FfKlSxd7sCic\no1YetCft7plTPAuvLQ/XbKiIcQKBgQC6elfEnblg5LuSzmxB2WKolxmqzjRVwmZD\nkmUomG52IzDzvHtPcyLvYU6K9CAu2T0AiBArrJytESFBxUWfHVnHWazJhB3+YqB4\nScpBMPBxz0LJLSpwArdTn9Mf/wz9UbJaBEX3vIKtOE7rpztr7nv1PA1mLrvecIP+\nC31c850GKwKBgAxv6BL36Nqb4YOzx9HW/dGbnB7EPjGAntndjMo2k+/GGTw5UjSK\nHNYR9ABlrfJFZYC5RYiGtW28mNCNJD3lTIn/LsizqyFTc5ilP7l2fp7ShUWC6GGn\nEt+w/AG3x4YDb00e7JeN1nbtF+BKgJ+PNjdtDlKetI62Kxum2iI8W2iBAoGAdjEI\n5AOb9X/EK35OO0ZPM8/hYtMjdJ+sNXPaTeqfSJ1xb2qtNWQiZlrkb0ngBBGIioey\nyBu1ijPrQkaIpBr0RlfeHjNw10UntFYArWUZYOkeyWepGCmAjK4mIIeFciGPy2Id\n/rEqmiOwUchC71vOkVaon3VLeecSobgikwGNKtUCgYEAiUZwV7169MdUFCsurjyD\nbSp1zu7GJ8GfaUyC07ZwqlTSVTLJMcLX+e/hYOzhbfKxwET2wHS9izMw/2K1YDiW\nPJg9BEDkROxkzd1zSUt4DnSC/la6FZCaZknMqATu7qHgle1o6oitu0pyhphvhjBl\nqEwH7B/EBvEtDR5uDI4pc/o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-daop5@abriellacare.iam.gserviceaccount.com",
+  "client_id": "110844623470258802101",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-daop5%40abriellacare.iam.gserviceaccount.com"
+}

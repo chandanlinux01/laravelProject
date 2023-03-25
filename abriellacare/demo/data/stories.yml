@@ -1,0 +1,323 @@
+---
+version: "2.0"
+stories:
+  - story: greeting
+    steps:
+      - intent: greeting
+      - action: utter_greeting
+  - story: about
+    steps:
+      - intent: about
+      - action: utter_about
+  - story: skill
+    steps:
+      - intent: skill
+      - action: utter_skill
+  - story: creation
+    steps:
+      - intent: creation
+      - action: utter_creation
+  - story: name
+    steps:
+      - intent: name
+      - action: utter_name
+  - story: help
+    steps:
+      - intent: help
+      - action: utter_help
+  - story: sad
+    steps:
+      - intent: sad
+      - action: utter_sad
+  - story: stressed
+    steps:
+      - intent: stressed
+      - action: utter_stressed
+  - story: worthless
+    steps:
+      - intent: worthless
+      - action: utter_worthless
+  - story: depressed
+    steps:
+      - intent: depressed
+      - action: utter_depressed
+  - story: happy
+    steps:
+      - intent: happy
+      - action: utter_happy
+  - story: morning
+    steps:
+      - intent: morning
+      - action: utter_morning
+  - story: casual
+    steps:
+      - intent: casual
+      - action: utter_casual
+  - story: anxious
+    steps:
+      - intent: anxious
+      - action: utter_anxious
+  - story: not-talking
+    steps:
+      - intent: not-talking
+      - action: utter_not-talking
+  - story: sleep
+    steps:
+      - intent: sleep
+      - action: utter_sleep
+  - story: scared
+    steps:
+      - intent: scared
+      - action: utter_scared
+  - story: death
+    steps:
+      - intent: death
+      - action: utter_death
+  - story: understand
+    steps:
+      - intent: understand
+      - action: utter_understand
+  - story: done
+    steps:
+      - intent: done
+      - action: utter_done
+  - story: suicide
+    steps:
+      - intent: suicide
+      - action: utter_suicide
+  - story: hate-you
+    steps:
+      - intent: hate-you
+      - action: utter_hate-you
+  - story: afternoon
+    steps:
+      - intent: afternoon
+      - action: utter_afternoon
+  - story: hate-me
+    steps:
+      - intent: hate-me
+      - action: utter_hate-me
+  - story: default
+    steps:
+      - intent: default
+      - action: utter_default
+  - story: jokes
+    steps:
+      - intent: jokes
+      - action: utter_jokes
+  - story: repeat
+    steps:
+      - intent: repeat
+      - action: utter_repeat
+  - story: wrong
+    steps:
+      - intent: wrong
+      - action: utter_wrong
+  - story: stupid
+    steps:
+      - intent: stupid
+      - action: utter_stupid
+  - story: location
+    steps:
+      - intent: location
+      - action: utter_location
+  - story: something-else
+    steps:
+      - intent: something-else
+      - action: utter_something-else
+  - story: friends
+    steps:
+      - intent: friends
+      - action: utter_friends
+  - story: ask
+    steps:
+      - intent: ask
+      - action: utter_ask
+  - story: evening
+    steps:
+      - intent: evening
+      - action: utter_evening
+  - story: problem
+    steps:
+      - intent: problem
+      - action: utter_problem
+  - story: no-approach
+    steps:
+      - intent: no-approach
+      - action: utter_no-approach
+  - story: learn-more
+    steps:
+      - intent: learn-more
+      - action: utter_learn-more
+  - story: user-agree
+    steps:
+      - intent: user-agree
+      - action: utter_user-agree
+  - story: meditation
+    steps:
+      - intent: meditation
+      - action: utter_meditation
+  - story: user-meditation
+    steps:
+      - intent: user-meditation
+      - action: utter_user-meditation
+  - story: cbt-useful
+    steps:
+      - intent: cbt-useful
+      - action: utter_cbt-useful
+  - story: user-advice
+    steps:
+      - intent: user-advice
+      - action: utter_user-advice
+  - story: learn-mental-health
+    steps:
+      - intent: learn-mental-health
+      - action: utter_learn-mental-health
+  - story: mental-health-fact
+    steps:
+      - intent: mental-health-fact
+      - action: utter_mental-health-fact
+  - story: night
+    steps:
+      - intent: night
+      - action: utter_night
+  - story: fact-1
+    steps:
+      - intent: fact-1
+      - action: utter_fact-1
+  - story: fact-2
+    steps:
+      - intent: fact-2
+      - action: utter_fact-2
+  - story: fact-3
+    steps:
+      - intent: fact-3
+      - action: utter_fact-3
+  - story: fact-4
+    steps:
+      - intent: fact-4
+      - action: utter_fact-4
+  - story: fact-5
+    steps:
+      - intent: fact-5
+      - action: utter_fact-5
+  - story: fact-6
+    steps:
+      - intent: fact-6
+      - action: utter_fact-6
+  - story: fact-7
+    steps:
+      - intent: fact-7
+      - action: utter_fact-7
+  - story: fact-8
+    steps:
+      - intent: fact-8
+      - action: utter_fact-8
+  - story: fact-9
+    steps:
+      - intent: fact-9
+      - action: utter_fact-9
+  - story: fact-10
+    steps:
+      - intent: fact-10
+      - action: utter_fact-10
+  - story: goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+  - story: fact-11
+    steps:
+      - intent: fact-11
+      - action: utter_fact-11
+  - story: fact-12
+    steps:
+      - intent: fact-12
+      - action: utter_fact-12
+  - story: fact-13
+    steps:
+      - intent: fact-13
+      - action: utter_fact-13
+  - story: fact-14
+    steps:
+      - intent: fact-14
+      - action: utter_fact-14
+  - story: fact-15
+    steps:
+      - intent: fact-15
+      - action: utter_fact-15
+  - story: fact-16
+    steps:
+      - intent: fact-16
+      - action: utter_fact-16
+  - story: fact-17
+    steps:
+      - intent: fact-17
+      - action: utter_fact-17
+  - story: fact-18
+    steps:
+      - intent: fact-18
+      - action: utter_fact-18
+  - story: fact-19
+    steps:
+      - intent: fact-19
+      - action: utter_fact-19
+  - story: fact-20
+    steps:
+      - intent: fact-20
+      - action: utter_fact-20
+  - story: thanks
+    steps:
+      - intent: thanks
+      - action: utter_thanks
+  - story: fact-21
+    steps:
+      - intent: fact-21
+      - action: utter_fact-21
+  - story: fact-22
+    steps:
+      - intent: fact-22
+      - action: utter_fact-22
+  - story: fact-23
+    steps:
+      - intent: fact-23
+      - action: utter_fact-23
+  - story: fact-24
+    steps:
+      - intent: fact-24
+      - action: utter_fact-24
+  - story: fact-25
+    steps:
+      - intent: fact-25
+      - action: utter_fact-25
+  - story: fact-26
+    steps:
+      - intent: fact-26
+      - action: utter_fact-26
+  - story: fact-27
+    steps:
+      - intent: fact-27
+      - action: utter_fact-27
+  - story: fact-28
+    steps:
+      - intent: fact-28
+      - action: utter_fact-28
+  - story: fact-29
+    steps:
+      - intent: fact-29
+      - action: utter_fact-29
+  - story: fact-30
+    steps:
+      - intent: fact-30
+      - action: utter_fact-30
+  - story: no-response
+    steps:
+      - intent: no-response
+      - action: utter_no-response
+  - story: fact-31
+    steps:
+      - intent: fact-31
+      - action: utter_fact-31
+  - story: neutral-response
+    steps:
+      - intent: neutral-response
+      - action: utter_neutral-response
